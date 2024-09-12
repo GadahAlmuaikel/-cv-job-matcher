@@ -1,4 +1,3 @@
-# cv-job-matcher
 # CV to Job Description Matching Project
 
 ## Purpose of the Project
