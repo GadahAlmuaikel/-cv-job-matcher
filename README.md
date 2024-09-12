@@ -4,7 +4,7 @@
 This project aims to help job seekers by matching their CVs to job descriptions from major companies using semantic similarity. By analyzing the text content of the CV, the system identifies and presents the top three job descriptions that best match the provided CV. Additionally, it provides translations for CVs that are not in English, as well as the corresponding job descriptions.
 
 ## Main Files and Their Functions
-- **project.ipynb**: This is the primary script that runs the project. It includes the following functionalities:
+- **Project.ipynb**: This is the primary script that runs the project. It includes the following functionalities:
   - Contains predefined job descriptions from major companies like Google, Amazon, Microsoft, etc.
   - Detects the language of the input CV.
   - Translates the CV to English if necessary using Hugging Face’s translation pipeline.
