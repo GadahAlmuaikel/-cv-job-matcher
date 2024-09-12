@@ -28,3 +28,8 @@ The project also uses the Hugging Face `pipeline` for language translation. The 
 
 ## Running Hugging Face Project Page
 You can access the project running on Hugging Face Spaces here: [Hugging Face CV Job Matcher](https://huggingface.co/spaces/ghadaAlmuaikel/cv-job-matcher).
+
+## Video Walkthrough of the Python Notebook
+An uploaded video walkthrough of the Python notebook explaining the project step-by-step is available. You can view the video by clicking the following link:
+
+[![Watch the video walkthrough](https://img.youtube.com/vi/KYMw_W2Xk84/maxresdefault.jpg)](https://youtu.be/KYMw_W2Xk84)
